@@ -4,8 +4,6 @@
 
 ### Junior Frontend Developer
 
----
-
 ![my photo](./img/my-photo.JPG "my photo")
 
 ---
