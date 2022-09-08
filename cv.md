@@ -13,8 +13,8 @@
 - **Phone:** +38 096 471 89 35
 - **Discord:** No Name (Noneif)#7194
 - **E-mail: sofar0222@gmail.com**
-- **LinkedIn: [NoName](linkedin.com/in/no-name-181abb234)**
-- **Website: [personal.netlify.app](musical-cupcake-a8f1f8.netlify.app/)**
+- **LinkedIn: [NoName](https://www.linkedin.com/in/no-name-181abb234/)**
+- **Website: [personal.netlify.app](https://musical-cupcake-a8f1f8.netlify.app/)**
 - **GitHub: [@Noneif](https://github.com/Noneif)**
 - **Instagram: [@NoName](https://www.instagram.com/bams_boooooooooo/)**
 
