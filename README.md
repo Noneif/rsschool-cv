@@ -1,1 +1,3 @@
-### https://github.com/Noneif/rsschool-cv/blob/gh-pages/cv.md
+# rsschool-cv
+
+### https://noneif.github.io/rsschool-cv/cv
